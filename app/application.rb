@@ -1,5 +1,3 @@
 class Application
-get '/' do
-
-end
+get '/''
 end
